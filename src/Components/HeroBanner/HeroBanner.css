@@ -1,10 +1,4 @@
-:root {
-    --aspect-ratio: calc(9 / 16);
-    --gridOpacity:  0;
-    --gridScale: 2;
-    --gridTranslate: 5vh;
-      
-  }
+
   
   *,
   *::before,
